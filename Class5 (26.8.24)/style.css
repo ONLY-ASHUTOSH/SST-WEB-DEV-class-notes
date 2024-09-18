@@ -1,0 +1,17 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+    background-color: coral;
+    margin-top:20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+
+    border: 5px,dashed,black;
+    padding: 5px;
+    border-radius: 20px;
+    
+}
